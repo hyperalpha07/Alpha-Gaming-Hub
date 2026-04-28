@@ -93,7 +93,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
             conn.commit()
 
     msg = f"""
-🔥 Alpha Gaming VIP-এ স্বাগতম
+🔥 Alpha Gaming Hub-এ স্বাগতম
 
 💰 Invite করে reward জিতুন।
 
